@@ -1,0 +1,2 @@
+# STM32F103ZE_CUBEMX
+使用CubeMx结合ChatGpt测试各外设
